@@ -1,0 +1,6 @@
+﻿  lab1.cpp
+C:\Users\Pajac\source\repos\lab1\lab1.cpp(155,25): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Pajac\source\repos\lab1\lab1.cpp(168,29): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Pajac\source\repos\lab1\lab1.cpp(481,28): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Pajac\source\repos\lab1\lab1.cpp(483,30): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+  lab1.vcxproj -> C:\Users\Pajac\source\repos\lab1\Debug\lab1.exe
